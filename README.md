@@ -1,4 +1,4 @@
-Script that sets up a basic programming environment
+Script that creates three files ( html, css and js) just to get you started in your new web development project. Way basic.
 
 it should:
 optionally take as argument a git repo url
